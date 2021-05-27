@@ -1,9 +1,9 @@
-# Espresso scheme by Unknown. Maintained by Alex Mirrington (https://github.com/alexmirrington)
+# Rosé Pine Dawn scheme by Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
 
-set -U fish_color_autosuggestion 515151
+set -U fish_color_autosuggestion f2e9de
 set -U fish_color_cancel -r
 set -U fish_color_command green #white
-set -U fish_color_comment 515151
+set -U fish_color_comment f2e9de
 set -U fish_color_cwd green
 set -U fish_color_cwd_root red
 set -U fish_color_end brblack #blue
@@ -14,11 +14,11 @@ set -U fish_color_host normal
 set -U fish_color_match --background=brblue
 set -U fish_color_normal normal
 set -U fish_color_operator blue #green
-set -U fish_color_param b4b7b4
+set -U fish_color_param 6e6a86
 set -U fish_color_quote yellow #brblack
 set -U fish_color_redirection cyan
-set -U fish_color_search_match bryellow --background=515151
-set -U fish_color_selection white --bold --background=515151
+set -U fish_color_search_match bryellow --background=f2e9de
+set -U fish_color_selection white --bold --background=f2e9de
 set -U fish_color_status red
 set -U fish_color_user brgreen
 set -U fish_color_valid_path --underline

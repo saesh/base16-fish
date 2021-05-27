@@ -1,9 +1,9 @@
 # dirtysea scheme by Kahlil (Kal) Hodgson
 
-set -U fish_color_autosuggestion c0c0c0
+set -U fish_color_autosuggestion d0d0d0
 set -U fish_color_cancel -r
 set -U fish_color_command green #white
-set -U fish_color_comment c0c0c0
+set -U fish_color_comment d0d0d0
 set -U fish_color_cwd green
 set -U fish_color_cwd_root red
 set -U fish_color_end brblack #blue
@@ -17,8 +17,8 @@ set -U fish_color_operator blue #green
 set -U fish_color_param 202020
 set -U fish_color_quote yellow #brblack
 set -U fish_color_redirection cyan
-set -U fish_color_search_match bryellow --background=c0c0c0
-set -U fish_color_selection white --bold --background=c0c0c0
+set -U fish_color_search_match bryellow --background=d0d0d0
+set -U fish_color_selection white --bold --background=d0d0d0
 set -U fish_color_status red
 set -U fish_color_user brgreen
 set -U fish_color_valid_path --underline

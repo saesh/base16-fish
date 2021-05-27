@@ -1,4 +1,4 @@
-# Synth Midnight Dark scheme by Michaël Ball (http://github.com/michael-ball/)
+# Synth Midnight Terminal Dark scheme by Michaël Ball (http://github.com/michael-ball/)
 
 set -U fish_color_autosuggestion 28292a
 set -U fish_color_cancel -r
